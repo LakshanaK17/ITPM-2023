@@ -1,0 +1,93 @@
+@media only screen and (max-width: 575px) {
+    .container {
+    /* margin-top: 20px; */
+    width: 95%;
+  }
+}
+.container {
+    /* margin-top: 20px; */
+    width: 95%;
+  }
+  
+  .left_data {
+    width: 100%;
+    margin-top: 30px;
+    padding: 20px;
+  }
+
+  
+  .left_data h3 {
+    text-align: center;
+  margin-bottom: 20px;
+  }
+  
+  .left_data form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .left_data form .mb-3 {
+    width: 100%;
+    padding: 10px;
+  text-align: center;
+  }
+  
+  .left_data form input {
+    width: 50%;
+    padding: 10px;
+    padding-left: 10px;
+    margin-bottom: 10px;
+    text-align: left;
+  }
+  
+  .left_data form button {
+    width: 30%;
+    background: rgb(67, 185, 127);
+    padding: 10px;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    align-items: center;
+  }
+  
+  .left_data form button:hover {
+    background: #4eab88;
+  }
+  
+  .left_data p {
+    margin-top: 20px;
+    text-align: left;
+  }
+  
+  .left_data p span {
+    color: blue;
+    font-weight: bold;
+  }
+
+  .login-image {
+    width: 50%;
+    height: 100vh;
+    object-fit: cover;
+  }
+  
+  section {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .login-image-container {
+    width: 50%;
+  }
+  
+  .login-image {
+    width: 100%;
+    max-height: 400px;
+    object-fit: cover;
+  }
+  
+  .left_data {
+    width: 50%;
+  }
+  
+  
